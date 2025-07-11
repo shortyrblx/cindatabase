@@ -1,0 +1,15 @@
+{
+  "title": "Dragonfire Trials",
+  "subtitle": "Defeat the elemental beasts to earn fiery rewards!",
+  "isNew": true,
+  "joinButton": {
+    "text": "Enter Arena",
+    "style": "red"
+  },
+  "rewards": [
+    { "label": "Flame Gauntlet" },
+    { "label": "Phoenix Feather" },
+    { "label": "Ashen Helm" },
+    { "label": "Charcoal Shield" }
+  ]
+}
